@@ -1,4 +1,4 @@
-# 📊 BIST Market Snapshot — XU100 & Turkish Banks (2022–2024)
+# BIST Market Snapshot — XU100 & Turkish Banks (2022–2024)
 
 A compact, reproducible analysis of the **BIST 100 Index (XU100)** and three major Turkish banks: **GARAN.IS**, **AKBNK.IS**, **YKBNK.IS**.  
 The notebook fetches prices with `yfinance`, computes daily returns, moving averages, rolling volatility, and compares correlations.  
@@ -21,7 +21,7 @@ The notebook fetches prices with `yfinance`, computes daily returns, moving aver
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 - Python 3.11+
 - pandas, numpy
 - matplotlib, seaborn
@@ -29,7 +29,7 @@ The notebook fetches prices with `yfinance`, computes daily returns, moving aver
 
 ---
 
-## ⚡ Quickstart
+## Quickstart
 
 ```bash
 # clone & enter
