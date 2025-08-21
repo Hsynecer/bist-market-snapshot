@@ -14,7 +14,7 @@ The notebook fetches prices with `yfinance`, computes daily returns, moving aver
 
 ---
 
-## 🎯 Why this repo?
+## Why this repo?
 - Real market data • clear visuals • concise insights  
 - One-file reproducibility (Jupyter Notebook)  
 - Relevant to finance/data roles (time series, KPIs, presentation)
